@@ -23,7 +23,6 @@ function getMemeImage() {
   
 }
 
-
   return (
     <main>
       <div className="form">
